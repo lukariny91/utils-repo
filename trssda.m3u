@@ -3,5 +3,6 @@
 # Ejemplo de lista M3U con soporte DASH y ClearKey DRM
 
 # DASH con ClearKey - Ejemplo 1
-#EXTINF:-1 tvg-id="dash_clearkey_1" tvg-name="Película Protegida 1" tvg-logo="https://example.com/logo1.jpg" group-title="Películas" drm-type="clearkey" drm-kid="7ceb1cd0622cd7e88fcdc99fe3a55de6" drm-key="951637093d41c7388a1ef3f620cfea21",TN
+#EXTINF:-1 tvg-id="dash_clearkey_1" tvg-name="Película Protegida 1" tvg-logo="https://example.com/logo1.jpg" group-title="Películas" drm-type="clearkey" drm-kid="7ceb1cd0622cd7e88fcdc99fe3a55de6" drm-key="951637093d41c7388a1ef3f620cfea21" drm-key="dGVzdGtleTEyMzQ1Njc4OTAxMjM0NTY=" origin="https://portal.app.flow.com.ar" referer="https://portal.app.flow.com.ar/",TN
+
 https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
