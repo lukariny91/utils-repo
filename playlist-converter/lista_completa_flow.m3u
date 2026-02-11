@@ -1,148 +1,148 @@
-#EXTINF:-1 tvg-id="Canal de la ciudad" tvg-name="Canal de la ciudad" group-title="NO REQUIERE CLAVE DRM",Canal de la ciudad
+#EXTINF:-1 tvg-id="Canal de la ciudad" tvg-name="Canal de la ciudad" group-title="INTERES GENERAL",Canal de la ciudad
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ee7842b3cf24d1dba088365fa5d0543:69cec006409823c06fbf2866a231b4f7
 https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc_C/Canal_de_la_ciudad.mpd
 
-#EXTINF:-1 tvg-id="Metro" tvg-name="Metro" group-title="NO REQUIERE CLAVE DRM",Metro
+#EXTINF:-1 tvg-id="Metro" tvg-name="Metro" group-title="INTERES GENERAL",Metro
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
 https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc_C/Metro.mpd
 
-#EXTINF:-1 tvg-id="AmericaTV" tvg-name="AmericaTV" group-title="NO REQUIERE CLAVE DRM",AmericaTV
+#EXTINF:-1 tvg-id="AmericaTV" tvg-name="AmericaTV" group-title="INTERES GENERAL",AmericaTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
 
-#EXTINF:-1 tvg-id="TelefeHD" tvg-name="TelefeHD" group-title="NO REQUIERE CLAVE DRM",TelefeHD
+#EXTINF:-1 tvg-id="TelefeHD" tvg-name="TelefeHD" group-title="INTERES GENERAL",TelefeHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
 
-#EXTINF:-1 tvg-id="Canal7" tvg-name="Canal7" group-title="NO REQUIERE CLAVE DRM",Canal7
+#EXTINF:-1 tvg-id="Canal7" tvg-name="Canal7" group-title="INTERES GENERAL",Canal7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd
 
-#EXTINF:-1 tvg-id="ArtearHD" tvg-name="ArtearHD" group-title="NO REQUIERE CLAVE DRM",ArtearHD
+#EXTINF:-1 tvg-id="ArtearHD" tvg-name="ArtearHD" group-title="INTERES GENERAL",ElTreceHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
 https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
 
-#EXTINF:-1 tvg-id="Canal9" tvg-name="Canal9" group-title="NO REQUIERE CLAVE DRM",Canal9
+#EXTINF:-1 tvg-id="Canal9" tvg-name="Canal9" group-title="INTERES GENERAL",Canal9
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
 https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd
 
-#EXTINF:-1 tvg-id="TodoNoticias" tvg-name="TodoNoticias" group-title="NO REQUIERE CLAVE DRM",TodoNoticias
+#EXTINF:-1 tvg-id="TodoNoticias" tvg-name="TodoNoticias" group-title="NOTICIAS",TodoNoticias
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
 https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
 
-#EXTINF:-1 tvg-id="La Nacion" tvg-name="La Nacion" group-title="NO REQUIERE CLAVE DRM",La Nacion
+#EXTINF:-1 tvg-id="La Nacion" tvg-name="La Nacion" group-title="NOTICIAS",La Nacion
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
 https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
 
-#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" group-title="NO REQUIERE CLAVE DRM",C5N
+#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" group-title="NOTICIAS",C5N
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
 https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd
 
-#EXTINF:-1 tvg-id="CronicaTV" tvg-name="CronicaTV" group-title="NO REQUIERE CLAVE DRM",CronicaTV
+#EXTINF:-1 tvg-id="CronicaTV" tvg-name="CronicaTV" group-title="NOTICIAS",CronicaTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
 https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd
 
-#EXTINF:-1 tvg-id="26 TV HD" tvg-name="26 TV HD" group-title="NO REQUIERE CLAVE DRM",26 TV HD
+#EXTINF:-1 tvg-id="26 TV HD" tvg-name="26 TV HD" group-title="NOTICIAS",26 TV HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
 https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd
 
-#EXTINF:-1 tvg-id="America24" tvg-name="America24" group-title="NO REQUIERE CLAVE DRM",America24
+#EXTINF:-1 tvg-id="America24" tvg-name="America24" group-title="NOTICIAS",America24
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
 https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_C/America24.mpd
 
-#EXTINF:-1 tvg-id="Magazine" tvg-name="Magazine" group-title="NO REQUIERE CLAVE DRM",Magazine
+#EXTINF:-1 tvg-id="Magazine" tvg-name="Magazine" group-title="INTERES GENERAL",Magazine
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
 https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_C/Magazine.mpd
 
-#EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" group-title="NO REQUIERE CLAVE DRM",Net TV
+#EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" group-titleINTERES GENERAL",Net TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
 https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_C/Net_TV.mpd
 
-#EXTINF:-1 tvg-id="Encuentro" tvg-name="Encuentro" group-title="NO REQUIERE CLAVE DRM",Encuentro
+#EXTINF:-1 tvg-id="Encuentro" tvg-name="Encuentro" group-title="INTERES GENERAL",Encuentro
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
 https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_C/Encuentro.mpd
 
-#EXTINF:-1 tvg-id="CNN en Espanol" tvg-name="CNN en Espanol" group-title="NO REQUIERE CLAVE DRM",CNN en Espanol
+#EXTINF:-1 tvg-id="CNN en Espanol" tvg-name="CNN en Espanol" group-title="NOTICIAS",CNN en Espanol
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
 https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc_C/CNN_en_Espanol.mpd
 
-#EXTINF:-1 tvg-id="Investigacion Periodistica" tvg-name="Investigacion Periodistica" group-title="NO REQUIERE CLAVE DRM",Investigacion Periodistica
+#EXTINF:-1 tvg-id="Investigacion Periodistica" tvg-name="Investigacion Periodistica" group-title="NOTICIAS",Investigacion Periodistica
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
 https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_C/Investigacion_Periodistica.mpd
 
-#EXTINF:-1 tvg-id="BravoTV" tvg-name="BravoTV" group-title="NO REQUIERE CLAVE DRM",BravoTV
+#EXTINF:-1 tvg-id="BravoTV" tvg-name="BravoTV" group-title="INTERES GENERAL",BravoTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
 https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_C/BravoTV.mpd
 
-#EXTINF:-1 tvg-id="KZO" tvg-name="KZO" group-title="NO REQUIERE CLAVE DRM",KZO
+#EXTINF:-1 tvg-id="KZO" tvg-name="KZO" group-title="INTERES GENERAL",KZO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
 https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc_C/KZO.mpd
 
-#EXTINF:-1 tvg-id="Diputados TV" tvg-name="Diputados TV" group-title="NO REQUIERE CLAVE DRM",Diputados TV
+#EXTINF:-1 tvg-id="Diputados TV" tvg-name="Diputados TV" group-title="INTERES GENERAL",Diputados TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0
 https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_C/Diputados_TV.mpd
 
-#EXTINF:-1 tvg-id="MixTV" tvg-name="MixTV" group-title="NO REQUIERE CLAVE DRM",MixTV
+#EXTINF:-1 tvg-id="MixTV" tvg-name="MixTV" group-title="INTERES GENERAL",MixTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18
 https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd
 
-#EXTINF:-1 tvg-id="Canal 90" tvg-name="Canal 90" group-title="NO REQUIERE CLAVE DRM",Canal 90
+#EXTINF:-1 tvg-id="Canal 90" tvg-name="Canal 90" group-title="INTERES GENERAL",Canal 90
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca50103f3285421e8be7da8c0c0e7a54:3608e92a6feddf228c1f035ebb764426
 https://cdn.cvattv.com.ar/live/c6eds/Canal_90/SA_Live_dash_enc_C/Canal_90.mpd
 
-#EXTINF:-1 tvg-id="Canal C" tvg-name="Canal C" group-title="NO REQUIERE CLAVE DRM",Canal C
+#EXTINF:-1 tvg-id="Canal C" tvg-name="Canal C" group-title="INTERES GENERAL",Canal C
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a866ca98bef2351a68e4843139f8073:b0893077653d1ef842a1b65d8b34455a
 https://cdn.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc_C/Canal_C.mpd
 
-#EXTINF:-1 tvg-id="Canal Universidad" tvg-name="Canal Universidad" group-title="NO REQUIERE CLAVE DRM",Canal Universidad
+#EXTINF:-1 tvg-id="Canal Universidad" tvg-name="Canal Universidad" group-title="INTERES GENERAL",Canal Universidad
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93c40cee58a5f415828cc32d0c80d311:d00906d71ee69515cd4dca1162d5ae7f
