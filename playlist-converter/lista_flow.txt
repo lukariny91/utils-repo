@@ -10,18 +10,6 @@ ORIGIN-PY: https://portal.app.flow.com.py/
 
 INTERES GENERAL / GENERAL INTEREST
 
-https://cdn.cvattv.com.ar/live/c7eds/Info_Flow/SA_Live_dash_enc_C/Info_Flow.mpd
-NO REQUIERE CLAVE DRM / NO NEEDS DRM KEY
-
-https://cdn.cvattv.com.ar/live/c7eds/Info_Flow/verimatrix_rotating/Info_Flow.m3u8 (NEW)
-NO REQUIERE CLAVE DRM / NO NEEDS DRM KEY
-
-https://cdn.cvattv.com.ar/live/c4eds/Info_Mora/SA_Live_dash_enc_C/Info_Mora.mpd
-NO REQUIERE CLAVE DRM / NO NEEDS DRM KEY
-
-https://cdn.cvattv.com.ar/live/c4eds/Info_Mora/verimatrix_rotating/Info_Mora.m3u8 (NEW)
-NO REQUIERE CLAVE DRM / NO NEEDS DRM KEY
-
 https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc_C/Canal_de_la_ciudad.mpd	
 5ee7842b3cf24d1dba088365fa5d0543:69cec006409823c06fbf2866a231b4f7
 
@@ -46,8 +34,8 @@ https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd
 https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd	
 7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
 
-https://cdn.cvattv.com.ar/live/c7eds/Todo_Noticias_4K/SA_Live_dash_widevine/Todo_Noticias_4K.mpd (NEW)
-2959bf95e218a7ec8a9ea434430b45e7:9727d27dc22ad3a63d94338f92b7a55a (NEW)
+https://cdn.cvattv.com.ar/live/c7eds/Todo_Noticias_4K/SA_Live_dash_widevine/Todo_Noticias_4K.mpd
+2959bf95e218a7ec8a9ea434430b45e7:9727d27dc22ad3a63d94338f92b7a55a
 
 https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd	
 f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
@@ -99,15 +87,6 @@ https://cdn.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc_C/Canal_C.mpd
 
 https://cdn.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_Live_dash_enc_C/Canal_Universidad.mpd	
 93c40cee58a5f415828cc32d0c80d311:d00906d71ee69515cd4dca1162d5ae7f
-
-https://cdn.cvattv.com.ar/out/v1/TN_Tend/SA_Live_dash_cenc/TN.mpd (NEW)
-2f0c81461adf4520971cf45ee5036d91:3e6b5789d099cdb3e192486bea627a05 (NEW)
-
-https://cdn.cvattv.com.ar/out/v1/C5N_Tend/SA_Live_dash_cenc/C5N.mpd (NEW)
-8fefbdadc7844e46952fb0320c77692d:8171ec5c2b04833cfc81cf2a7100753d (NEW)
-
-https://cdn.cvattv.com.ar/out/v1/TELEFE_Tend/SA_Live_dash_cenc/TELEFE.mpd (NEW)
-41b893e8a7af43e9943e7d54a02c4e60:0b967f0ba9b543b8dac8ab9814b7970e (NEW)
 
 DEPORTES / SPORTS
 
@@ -195,23 +174,11 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/SA_Live_dash_enc_C/Eventos2_PY.
 https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc_C/Eventos_PY.mpd        	
 2bdfc30f2a7591e107d8c84458c395dd:dcee0d6420b6b597fba15d3c4411a71e
 
-https://cdn.cvattv.com.ar/live/c7eds/Placa_Futbol_PromoCH/SA_Live_dash_enc_C/Placa_Futbol_PromoCH.mpd (NEW)
-NO REQUIERE CLAVE DRM / NO NEEDS DRM KEY
-
-https://cdn.cvattv.com.ar/live/c7eds/Placa_Futbol_PromoCH/verimatrix_rotating/Placa_Futbol_PromoCH.m3u8 (NEW)
-NO REQUIERE CLAVE DRM / NO NEEDS DRM KEY
-
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd	
 4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 
 https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd	
 bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-
-https://cdn.cvattv.com.ar/live/c7eds/Placa_Futbol_PPV/SA_Live_dash_enc_C/Placa_Futbol_PPV.mpd (NEW)
-NO REQUIERE CLAVE DRM / NO NEEDS DRM KEY
-
-https://cdn.cvattv.com.ar/live/c7eds/Placa_Futbol_PPV/verimatrix_rotating/Placa_Futbol_PPV.m3u8 (NEW)
-NO REQUIERE CLAVE DRM / NO NEEDS DRM KEY
 
 https://cdn.cvattv.com.ar/live/c7eds/Eventos_3/SA_Live_dash_enc_C/Eventos_3.mpd	
 8b2fdf5a35d01a6ac888b7e8b1a2ddad:2c088b42e71dba1c572e7f04d2934430
@@ -258,12 +225,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_C/Kidoo.mpd
 dcd89337a501ab929c01a039774089dc:e96cc7be9139a8d581b3f5eebebfc10d
 
 HBO
-
-https://cdn.cvattv.com.ar/live/c7eds/Placa_HBO/SA_Live_dash_enc_C/Placa_HBO.mpd (NEW)
-NO REQUIERE CLAVE DRM / NO NEEDS DRM KEY
-
-https://cdn.cvattv.com.ar/live/c7eds/Placa_HBO/verimatrix_rotating/Placa_HBO.m3u8 (NEW)
-NO REQUIERE CLAVE DRM / NO NEEDS DRM KEY
 
 https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd	
 5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
@@ -347,7 +308,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_C/Uni
 https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_C/AXNHD.mpd	
 03e77b5bbf5135a85d587c5af2f2f730:1dd1ab1938a791d03f09eb88478b4880
 
-https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_C/ Studio_Universal.mpd	
+https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_C/Studio_Universal.mpd	
 d9b541e3cd064d569843da42788d4263:bba5d26ad5051fb3f2cf7e3dd8a4a7d8
 
 https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_C/AEHD.mpd	
@@ -536,12 +497,12 @@ https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc_C/Flow_Music_
 596b599580b39ae2f3c413f7eae36902:2d7e3d5d31f68690fd877a111f84e8e3
 
 https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc_C/Flow_Music_3.mpd	
-e078b15ed770ec71f803c0ecc43de033:7010bccda544f74d1b425c4cebd082d4 (NEW)
+e078b15ed770ec71f803c0ecc43de033:7010bccda544f74d1b425c4cebd082d4
 
 INTERNACIONALES / INTERNATIONAL
 
 https://cdn.cvattv.com.ar/live/c4eds/TV_Publica_Internacional/SA_Live_dash_enc_C/TV_Publica_Internacional.mpd (NEW)
-09833bbfc87acd3a509a57e75b4d37ef:13906c6849c0c81de495ddd9539765fe (NEW)
+09833bbfc87acd3a509a57e75b4d37ef:13906c6849c0c81de495ddd9539765fe
 
 https://cdn.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc_C/Artear_Internacional.mpd	
 5bd469f8bf268d5d148c3971c7c23fca:9af98080d22846fdf2988b8ba9ec4add
@@ -681,8 +642,6 @@ https://cdn.cvattv.com.ar/live/c7eds/Somos_San_Pedro/SA_Live_dash_enc_C/Somos_Sa
 https://cdn.cvattv.com.ar/live/c7eds/TeleJunin/SA_Live_dash_enc_C/TeleJunin.mpd	
 04a6e06cd400b52502f9dcab713077ad:629fc0a3c99442eb5ff46b6f3133fd44
 
-https://cdn.cvattv.com.ar/live/c4eds/TSN_Necochea/SA_Live_dash_enc_C/TSN_Necochea.mpd	
-ee5083a714e36ca6f2a4a32df24c48de:????????????????????????????????
 
 PROVINCIA DE CHACO Y CORRIENTES / CHACO AND CORRIENTES PROVINCE
 
@@ -709,17 +668,8 @@ ed542fdaa4598671e26aca3e160afed7:cdb880c60523b9ebc61b9003c41f8048
 https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc_C/Ch10_Tucuman.mpd	
 7a53740aa52d8b50ccb218aab5e9d50e:e772fa4a4997b50a0ff04e2ef286a864
 
-https://cdn.cvattv.com.ar/live/c4eds/CH_7_Jujuy/SA_Live_dash_enc_C/CH_7_Jujuy.mpd	
-2a30f957cd3e8c5445729ab58f7c029b:?????????????????????????????????
-
 https://cdn.cvattv.com.ar/live/c3eds/Canal7_SDE/SA_Live_dash_enc_C/Canal7_SDE.mpd	
 eec52ca8f4d229ae6aae86b6835256ed:506afbd8be37e388f5d3ceb7992069d4
-
-https://cdn.cvattv.com.ar/live/c4eds/Canal9_La_Rioja/SA_Live_dash_enc_C/Canal9_La_Rioja.mpd	
-fc4f9b27298fa2e3f070dcec31f7c20a:?????????????????????????????????
-
-https://cdn.cvattv.com.ar/live/c4eds/Canal7_Catamarca/SA_Live_dash_enc_C/Canal7_Catamarca.mpd	
-b97459655c5e6d342bf49cf2bacd4daa:?????????????????????????????????
 
 https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_C/Canal_8_Tucuman.mpd	
 7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
@@ -755,12 +705,6 @@ df3ed6245bb9af1a0346379e8e475dff:f86f8457438d4e449d53b956cc1be664
 
 https://cdn.cvattv.com.ar/live/c7eds/Somos_Bell_Ville/SA_Live_dash_enc_C/Somos_Bell_Ville.mpd	
 4dd0d6fab23ee397e603bf1cad49cc3f:84163f0d536884a640a509a9a0c937ee
-
-https://cdn.cvattv.com.ar/live/c4eds/Somos_Rio_3ro/SA_Live_dash_enc_C/Somos_Rio_3ro.mpd	
-756a73ab0b7a44889945f06afb13de6b:????????????????????????????????
-
-https://cdn.cvattv.com.ar/live/c6eds/Somos_Villa_Maria/SA_Live_dash_enc_C/Somos_Villa_Maria.mpd	
-b0af557f294b900347588957ad506cd1:?????????????????????????????????
 
 https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_C/Canal_8_CBA.mpd	
 103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f
@@ -821,22 +765,9 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal10_Rio_Negro/SA_Live_dash_enc_C/Canal1
 
 PROVINCIA DE FORMOSA / FORMOSA PROVINCE
 
-https://cdn.cvattv.com.ar/live/c4eds/Canal_3_Formosa/SA_Live_dash_enc_C/Canal_3_Formosa.mpd	
-fad37e328e1d36e0a5423a1a72d4085b:?????????????????????????????????
-
 https://cdn.cvattv.com.ar/live/c4eds/Canal_11_Formosa/SA_Live_dash_enc_C/Canal_11_Formosa.mpd	
 78cbce875d90e04f3f2b2e26261d5255:d6c6a3c3ec898483608ff39e086cad66
 
-https://cdn.cvattv.com.ar/live/c4eds/Somos_Formosa/SA_Live_dash_enc_C/Somos_Formosa.mpd	
-ceeb1cfa7ecbc8b22ff9f186287aa4a1:?????????????????????????????????
-
-PROVINCIA DE LA PAMPA / LA PAMPA PROVINCE
-
-https://cdn.cvattv.com.ar/live/c4eds/Canal3_Santa_Rosa/SA_Live_dash_enc_C/Canal3_Santa_Rosa.mpd
-ba3fd04fb657db01de0fdcfdd3546664:?????????????????????????????????
-
-https://cdn.cvattv.com.ar/live/c7eds/Somos_La_Pampa/SA_Live_dash_enc_C/Somos_La_Pampa.mpd
-35f4832074e26044f492dd4058147dc2:?????????????????????????????????
 
 PARAGUAY
 
@@ -927,7 +858,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc_C/Canal4_URU.mp
 dabefaac89742589778fcfab78f08354:896dd914683b01c8044ffd34d7b6416b
 
 https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_C/TV_Nacional_Uy.mpd
-	c50518d7f59f4c0aa9a3079fe2b014fd:96038f76a2ba33866ea54eb4b260573f
+c50518d7f59f4c0aa9a3079fe2b014fd:96038f76a2ba33866ea54eb4b260573f
 
 https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_C/VTV_HD.mpd	
 b96960aa715a4e51b7e952e81c99ac8e:5bbffc680764dbd63d90b774b3aa0c0a
