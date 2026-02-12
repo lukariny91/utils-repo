@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="https://iptv-epg.org/files/epg-lkmbvf.xml"
+#EXTM3U tvg-url="https://www.open-epg.com/generate/HESFeS9San.xml"
 
 #EXTINF:-1 tvg-id="Canal de la Ciudad.ar" tvg-logo="" group-title="Argentina",Canal de la ciudad
 #KODIPROP:inputstream=inputstream.adaptive
