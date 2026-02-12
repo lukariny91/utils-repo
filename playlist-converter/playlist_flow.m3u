@@ -235,20 +235,12 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_C/TyC_In
 #EXTINF:-1 group-title="ARG", ESPN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
-#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
-https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_C/ESPNHD.mpd
-
-#EXTINF:-1 group-title="ARG", ESPN 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
 #EXTVLCOPT:http-origin=https://portal.app.flow.com.ar
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_C/ESPN2_Arg.mpd
 
-#EXTINF:-1 group-title="UY", ESPN 2
+#EXTINF:-1 group-title="UY", ESPN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d820100144772fed9f38b83650fa7e1:ded8cc47b29b0eb0b0a87df22e721847
@@ -256,7 +248,7 @@ https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_C/ESPN2_Arg.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.uy/
 https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc_C/ESPN2_UY.mpd
 
-#EXTINF:-1 group-title="PY", ESPN 2
+#EXTINF:-1 group-title="PY", ESPN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4cbc5f5cbac72d38371bb63309e4a9d2:dbc8de27da9726cd2e7659abb08e86ef
@@ -304,6 +296,38 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_C/ESPN3.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.uy/
 https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc_C/ESPN3_Uy-Py.mpd
 
+#EXTINF:-1 group-title="ARG", ESPN 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
+https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_C/ESPNHD.mpd
+
+#EXTINF:-1 group-title="ARG", ESPN 5
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
+https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc_C/ESPN4.mpd
+
+#EXTINF:-1 group-title="ARG", ESPN 6
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.uy
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.uy/
+https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc_C/FoxSports3_UY.mpd
+
+#EXTINF:-1 group-title="ARG", ESPN 7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
+#EXTVLCOPT:http-origin=https://portal.app.flow.com.uy
+#EXTVLCOPT:http-referrer=https://portal.app.flow.com.uy/
+https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_C/FoxSports2_UY.mpd
+
 #EXTINF:-1 group-title="ARG", Fox Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -328,29 +352,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2H
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd
 
-#EXTINF:-1 group-title="ARG", ESPN 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
-#EXTVLCOPT:http-origin=https://portal.app.flow.com.ar
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
-https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc_C/ESPN4.mpd
 
-#EXTINF:-1 group-title="ARG", FoxSports3_UY
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-#EXTVLCOPT:http-origin=https://portal.app.flow.com.uy
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.uy/
-https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc_C/FoxSports3_UY.mpd
-
-#EXTINF:-1 group-title="ARG", FoxSports2_UY
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
-#EXTVLCOPT:http-origin=https://portal.app.flow.com.uy
-#EXTVLCOPT:http-referrer=https://portal.app.flow.com.uy/
-https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_C/FoxSports2_UY.mpd
 
 #EXTINF:-1 group-title="ARG", El Garage
 #KODIPROP:inputstream=inputstream.adaptive
