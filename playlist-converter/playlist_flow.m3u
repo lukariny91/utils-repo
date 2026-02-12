@@ -1,4 +1,4 @@
-#EXTM3U tvg-shift="-3" x-tvg-url="http://path-to-xmltv/guide.xml"
+#EXTM3U tvg-shift="-3" tvg-url="http://path-to-xmltv/guide.xml"
 
 #EXTINF:-1 tvg-id="Canal.ESPN.2.(Argentina).ar" tvg-logo="" group-title="Argentina",Canal de la ciudad
 #KODIPROP:inputstream=inputstream.adaptive
