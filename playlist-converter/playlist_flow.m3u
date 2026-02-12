@@ -1,4 +1,4 @@
-#EXTM3U tvg-shift="-3" tvg-url="https://iptv-epg.org/files/epg-lkmbvf.xml"
+#EXTM3U tvg-shift="" tvg-url="https://iptv-epg.org/files/epg-lkmbvf.xml"
 
 #EXTINF:-1 tvg-id="" tvg-shift="-3" tvg-logo="" group-title="Argentina",Canal de la ciudad
 #KODIPROP:inputstream=inputstream.adaptive
