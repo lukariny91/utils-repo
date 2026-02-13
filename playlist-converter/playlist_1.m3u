@@ -471,7 +471,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_C/Nickelodeon.
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_C/CartoonNetwork.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Flow",Dreamworks
+#EXTINF:-1 tvg-id="DREAMWORKS.pe" tvg-logo="" group-title="Flow",Dreamworks
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
@@ -607,7 +607,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mp
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_C/HBO_Signature.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Flow",Universal Premiere
+#EXTINF:-1 tvg-id="Universal Premiere.uy" tvg-logo="" group-title="Flow",Universal Premiere
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eb20b51ad13b58ad417f11318e588b3:ad5d29a33d73d21187157802de8e6097
@@ -615,7 +615,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_C/HBO_Signat
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc_C/Universal_Premiere.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Flow",Universal Cinema
+#EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-logo="" group-title="Flow",Universal Cinema
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6ae2e17173055e4ca69dc18963406ae:5a955c29eb88a0b4c9a2538cc4b3aea2
@@ -623,7 +623,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc_C/Unive
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_enc_C/Universal_Cinema.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Flow",Universal Comedy
+#EXTINF:-1 tvg-id="Universal Comedy.uy" tvg-logo="" group-title="Flow",Universal Comedy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=062c5d25105a3a935b67e36923c73f28:88c2d4cec420f18d2477152c66c7870d
@@ -631,7 +631,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_enc_C/Univers
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc_C/Universal_Comedy.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Flow",universal Crime
+#EXTINF:-1 tvg-id="Universal Crime.uy" tvg-logo="" group-title="Flow",universal Crime
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1efd7edf60e1514f775dd13d046ae708:c2ef1abbd945c62c11b1375eaaa50f0d
@@ -639,7 +639,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc_C/Univers
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc_C/universal_Crime.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Flow",Universal Reality
+#EXTINF:-1 tvg-id="Universal Reality.uy" tvg-logo="" group-title="Flow",Universal Reality
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cedd9c1a5c2ae43f80ee3197212016d6:bf47a3c39e164a97ea6adc4c8dd57435
@@ -783,7 +783,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc_C/Europa_Eur
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc_C/USA_Network.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Flow",TCM
+#EXTINF:-1 tvg-id="TCM.ar" tvg-logo="" group-title="Flow",TCM
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a5f44a5e30714cf3bcee7c7f15a08b4e:c3c141ae941ab9750339c3af45a65ce2
@@ -791,7 +791,7 @@ https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc_C/USA_Network.
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_C/TCM.mpd
 
-#EXTINF:-1 tvg-id="TCM.ar" tvg-logo="" group-title="Flow",AMC
+#EXTINF:-1 tvg-id="AMC.ar" tvg-logo="" group-title="Flow",AMC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33
@@ -799,7 +799,7 @@ https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_C/TCM.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_C/AMC.mpd
 
-#EXTINF:-1 tvg-id="AMC.ar" tvg-logo="" group-title="Flow",AMC Series
+#EXTINF:-1 tvg-id="AMC SERIES.ar" tvg-logo="" group-title="Flow",AMC Series
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10d3d4f33a6bad277accc2688c46b406:588fd56bcab1fcdb4f33b5c2f7018d29
