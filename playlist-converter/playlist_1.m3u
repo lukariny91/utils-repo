@@ -352,7 +352,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2H
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",El Garage
+#EXTINF:-1 tvg-id="EL GARAGE.ar" tvg-logo="" group-title="Argentina",El Garage
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03d1dfb8df034d8b81e57753df00a36d:08d83660db4a73bb1d61d60b09df5f4d
@@ -360,7 +360,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3H
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_C/El_Garage.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Golf Channel
+#EXTINF:-1 tvg-id="Golf Channel.ar" tvg-logo="" group-title="Argentina",Golf Channel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=38d6226b7cd2cfa86b4b9cdaa455e7d7:24f0ef2bf787647cc02df870417eed2b
@@ -368,7 +368,7 @@ https://cdn.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_C/El_Garage.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_C/Golf_Channel.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",NBA TV
+#EXTINF:-1 tvg-id="NBA TV.ar" tvg-logo="" group-title="Argentina",NBA TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0c38de3c9844e4e9f975dffb3eff8ad:141ca0fdf6ebadfa7107576b8e09e117
@@ -376,7 +376,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_C/Golf_Channe
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_C/NBA_TV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Discovery Turbo
+#EXTINF:-1 tvg-id="DISCOVERY TURBO.ar" tvg-logo="" group-title="Argentina",Discovery Turbo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a611ddbf8c15fa617a0c391cb7b3e128:0cd1300baf8890380fd41124962195c4
@@ -384,7 +384,7 @@ https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_C/NBA_TV.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_C/DiscoveryTurbo.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",PX Sports
+#EXTINF:-1 tvg-id="PX Sports.ar" tvg-logo="" group-title="Argentina",PX Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9393321daef1463fc7e2e060298db852:be6bc91e17816f67e62596bed463c5ad
@@ -392,7 +392,7 @@ https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_C/Discovery
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_C/PX_Sports.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",America Sports
+#EXTINF:-1 tvg-id="AMERICA SPORTS.ar" tvg-logo="" group-title="Argentina",America Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0aa01337a2148bda1e21862295ae037:fee0f87a0527497351fc54ce36ad1de2
@@ -456,7 +456,7 @@ https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/Eventos_3/SA_Live_dash_enc_C/Eventos_3.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",PAKA PAKA
+#EXTINF:-1 tvg-id="PAKA PAKA.ar" tvg-logo="" group-title="Argentina",PAKA PAKA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
@@ -464,7 +464,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Eventos_3/SA_Live_dash_enc_C/Eventos_3.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_C/PAKA_PAKA.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Disney Channel 
+#EXTINF:-1 tvg-id="DISNEY CHANNEL.ar" tvg-logo="" group-title="Argentina",Disney Channel 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4a742e478d14023e1993e011d9415f94:0df77ede9bc744376836d21afa137dda
@@ -472,7 +472,7 @@ https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_C/PAKA_PAKA.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_C/DisneyChannelHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Nickelodeon
+#EXTINF:-1 tvg-id="NICKELODEON.ar" tvg-logo="" group-title="Argentina",Nickelodeon
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
@@ -480,7 +480,7 @@ https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_C/DisneyCh
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_C/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Cartoon Network
+#EXTINF:-1 tvg-id="CARTOON NETWORK.ar" tvg-logo="" group-title="Argentina",Cartoon Network
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8
@@ -496,7 +496,7 @@ https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_C/CartoonNe
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_C/Dreamworks.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Discovery Kids
+#EXTINF:-1 tvg-id="DISCOVERY KIDS.ar" tvg-logo="" group-title="Argentina",Discovery Kids
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffb2f0f63c23a3592d4653e938b9ca19:d3661ae881fc55fc7a15815cd439747b
@@ -504,7 +504,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_C/Dreamworks.mp
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_C/Discovery_Kids.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Boomerang
+#EXTINF:-1 tvg-id="Canal Boomerang (Paraguay).py" tvg-logo="" group-title="Argentina",Boomerang
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5792e613fceb699c79cbc0e75fe4cd37:a672793730476ed23e5c1bce2ff570c6
@@ -512,7 +512,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_C/Discovery
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_C/Boomerang.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Disney Jr
+#EXTINF:-1 tvg-id="DISNEY JUNIOR.ar" tvg-logo="" group-title="Argentina",Disney Jr
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac
@@ -520,7 +520,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_C/Boomerang.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_C/DisneyJr.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Baby TV
+#EXTINF:-1 tvg-id="BABY TV.ar" tvg-logo="" group-title="Argentina",Baby TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e09f0a3ecb932582e0f3bc6a6194c8d:6d2363b7ba7680ea3bf6dcbad1efa5bf
@@ -528,7 +528,7 @@ https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_C/DisneyJr.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc_C/BabyTV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Tooncast
+#EXTINF:-1 tvg-id="TOONCAST.ar" tvg-logo="" group-title="Argentina",Tooncast
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10638a722eb54c64bfb0e7a77483686a:41a7d3d522e19215b7e8f611b6902d61
@@ -536,7 +536,7 @@ https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc_C/BabyTV.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_C/Tooncast.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Nick Jr
+#EXTINF:-1 tvg-id="NICK JR.artoon" tvg-logo="" group-title="Argentina",Nick Jr
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e824b2277a86fd6adfc40aa948e5064a:28da2dbbe8e1a1463bbb23895b922083
@@ -544,7 +544,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_C/Tooncast.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_C/Nick_Jr.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Plim Plim
+#EXTINF:-1 tvg-id="Plim Plim.ar" tvg-logo="" group-title="Argentina",Plim Plim
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e88e1572dcd2b31a10026668d628d61:ab95bdc2655aff4f4a8e512fb68c80df
@@ -560,7 +560,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc_C/Plim_Plim.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_C/Kidoo.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",HBO
+#EXTINF:-1 tvg-id="HBO.ar" tvg-logo="" group-title="Argentina",HBO
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
@@ -568,7 +568,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_C/Kidoo.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",HBO 2
+#EXTINF:-1 tvg-id="HBO 2.ar" tvg-logo="" group-title="Argentina",HBO 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
@@ -576,7 +576,7 @@ https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_C/HBOHD.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",HBO Plus
+#EXTINF:-1 tvg-id="HBO PLUS.ar" tvg-logo="" group-title="Argentina",HBO Plus
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
@@ -584,7 +584,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_C/HBO_2.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_C/HBO_Plus.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",HBO Mundi
+#EXTINF:-1 tvg-id="HBO MUNDI.ar" tvg-logo="" group-title="Argentina",HBO Mundi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7821b2662148fe333d5191acbb8a5c1f:ae43f3e2545237ebda58b13813b5d328
@@ -592,7 +592,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_C/HBO_Plus.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_C/HBO_Mundi.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",HBO POP
+#EXTINF:-1 tvg-id="HBO POP.ar" tvg-logo="" group-title="Argentina",HBO POP
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
@@ -600,7 +600,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_C/HBO_Mundi.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_C/HBO_POP.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",HBO Extreme
+#EXTINF:-1 tvg-id="HBO XTREME.ar" tvg-logo="" group-title="Argentina",HBO Extreme
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58
@@ -608,7 +608,7 @@ https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_C/HBO_POP.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",HBO Family
+#EXTINF:-1 tvg-id="HBO FAMILY.ar" tvg-logo="" group-title="Argentina",HBO Family
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=535473132f68082160b489482ca35f8e:e90fd91fcd3fc809bed2b1c0d37f7297
@@ -616,7 +616,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",HBO Signature
+#EXTINF:-1 tvg-id="HBO SIGNATURE.ar" tvg-logo="" group-title="Argentina",HBO Signature
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e866499fbc1149f49989672075aa3a68:d2dd5c95623c6343240981c2202fc311
@@ -672,7 +672,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc_C/Univer
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_C/INCAA_Tv.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Cinemax
+#EXTINF:-1 tvg-id="CINEMAX.ar" tvg-logo="" group-title="Argentina",Cinemax
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=977928a92b82ba3781741a6470f8f45b:51f4e62827c128f7210b79a11587661a
@@ -680,7 +680,7 @@ https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_C/INCAA_Tv.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_C/Cinemax.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Volver
+#EXTINF:-1 tvg-id="VOLVER.ar" tvg-logo="" group-title="Argentina",Volver
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
@@ -688,7 +688,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_C/Cinemax.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_C/Volver.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Space
+#EXTINF:-1 tvg-id="SPACE.ar" tvg-logo="" group-title="Argentina",Space
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
@@ -696,7 +696,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_C/Volver.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_C/Space.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Cinecanal
+#EXTINF:-1 tvg-id="CINECANAL.ar" tvg-logo="" group-title="Argentina",Cinecanal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6003e92dd0d9f548329015c9e15dd578:213cf85cb5f9fe569757004a77e05948
@@ -704,7 +704,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_C/Space.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_C/CinecanalHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",TNT
+#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="" group-title="Argentina",TNT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0
@@ -712,7 +712,7 @@ https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_C/CinecanalHD.
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_C/TNT_HD_Arg.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",TNT Series
+#EXTINF:-1 tvg-id="TNT SERIES.ar" tvg-logo="" group-title="Argentina",TNT Series
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c14d6aeb19bf113edf91a7b544253cb:8d776d6f9c5c840ebe88d767dd731692
@@ -720,7 +720,7 @@ https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_C/TNT_HD_Arg.mp
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_C/TNTSeries.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",FX
+#EXTINF:-1 tvg-id="FX.ar" tvg-logo="" group-title="Argentina",FX
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ab9c42c713e0fb5517dc77cc19d6755:d8c271b82387e609b6c19e5e79240aff
@@ -728,7 +728,7 @@ https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_C/TNTSeries.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_C/FXHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Star Channel
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.ar" tvg-logo="" group-title="Argentina",Star Channel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f
@@ -736,7 +736,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc_C/FXHD.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_C/FOXHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Sony
+#EXTINF:-1 tvg-id="SONY.ar" tvg-logo="" group-title="Argentina",Sony
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
@@ -744,7 +744,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_C/FOXHD.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_C/SonyHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Warner
+#EXTINF:-1 tvg-id="WARNER CHANNEL.ar" tvg-logo="" group-title="Argentina",Warner
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
@@ -752,7 +752,7 @@ https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_C/SonyHD.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_C/WarnerHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Universal Channel
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.ar" tvg-logo="" group-title="Argentina",Universal Channel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
@@ -760,7 +760,7 @@ https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_C/WarnerHD.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_C/Universal_Channel_HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",AXN
+#EXTINF:-1 tvg-id="AXN.ar" tvg-logo="" group-title="Argentina",AXN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03e77b5bbf5135a85d587c5af2f2f730:1dd1ab1938a791d03f09eb88478b4880
@@ -768,7 +768,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_C/Uni
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_C/AXNHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina", Studio Universal
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL.ar" tvg-logo="" group-title="Argentina", Studio Universal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9b541e3cd064d569843da42788d4263:bba5d26ad5051fb3f2cf7e3dd8a4a7d8
@@ -784,7 +784,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_C/Studio_
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_C/AEHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Europa Europa
+#EXTINF:-1 tvg-id="EUROPA EUROPA.ar" tvg-logo="" group-title="Argentina",Europa Europa
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b47f257df0314d09a7f8355c3abe1dc6:bdc9f1696a82ee7398dd3a7fa82300e2
@@ -792,7 +792,7 @@ https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_C/AEHD.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc_C/Europa_Europa.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",USA Network
+#EXTINF:-1 tvg-id="USA.ar" tvg-logo="" group-title="Argentina",USA Network
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c754b522b3b87dc2ba2da3e35154ec14:141a51e9e83861ae99b4b217431710b3
@@ -808,7 +808,7 @@ https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc_C/USA_Network.
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_C/TCM.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",AMC
+#EXTINF:-1 tvg-id="TCM.ar" tvg-logo="" group-title="Argentina",AMC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33
@@ -816,7 +816,7 @@ https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_C/TCM.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_C/AMC.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",AMC Series
+#EXTINF:-1 tvg-id="AMC.ar" tvg-logo="" group-title="Argentina",AMC Series
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10d3d4f33a6bad277accc2688c46b406:588fd56bcab1fcdb4f33b5c2f7018d29
@@ -824,7 +824,7 @@ https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_C/AMC.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/AMC_Series/SA_Live_dash_enc_C/AMC_Series.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",A3 Series
+#EXTINF:-1 tvg-id="A3SE.ar" tvg-logo="" group-title="Argentina",A3 Series
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e34e08ae5ae440f01a03e505dd24a57:ed30cc7f5040a75d73f619320249272b
@@ -832,7 +832,7 @@ https://cdn.cvattv.com.ar/live/c6eds/AMC_Series/SA_Live_dash_enc_C/AMC_Series.mp
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_C/A3_Series.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Golden
+#EXTINF:-1 tvg-id="GOLDEN.ar" tvg-logo="" group-title="Argentina",Golden
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7d085dbd4539afcc6a55445efb2b04e:0a55fbe044fed379d1632b589265b571
@@ -840,7 +840,7 @@ https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_C/A3_Series.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc_C/Golden.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Sony Movies
+#EXTINF:-1 tvg-id="SONY MOVIES.ar" tvg-logo="" group-title="Argentina",Sony Movies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
@@ -848,7 +848,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc_C/Golden.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc_C/Sony_Movies.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Eurochannel
+#EXTINF:-1 tvg-id="EUROCHANNEL.ar" tvg-logo="" group-title="Argentina",Eurochannel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f0fc214d9844a7590f0884d55b44c42:b2fe1bb5f9c79035301c328c1e93b0ee
@@ -856,7 +856,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc_C/Sony_Movies.
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_C/Eurochannel.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",ID
+#EXTINF:-1 tvg-id="ID - INVESTIGATION DISCOVERY.ar" tvg-logo="" group-title="Argentina",ID
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0956caf2e2bd41f49fdcead7cc94fe24:640c49578073a911938617eb4e652d6c
@@ -864,7 +864,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_C/Eurochannel.
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc_C/ID.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Comedy Central
+#EXTINF:-1 tvg-id="COMEDY CENTRAL.ar" tvg-logo="" group-title="Argentina",Comedy Central
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
@@ -872,7 +872,7 @@ https://cdn.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc_C/ID.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_C/ComedyCentral.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Paramount
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL.ar" tvg-logo="" group-title="Argentina",Paramount
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
@@ -880,7 +880,7 @@ https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_C/ComedyCent
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_C/Paramount.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",A3 Cine
+#EXTINF:-1 tvg-id="A3 Cine HD.uy" tvg-logo="" group-title="Argentina",A3 Cine
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6ff881a6f07986a80d6ad6f041b57d4:b401c87c2ab11a1a488ee1c474b109ae
@@ -888,7 +888,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc_C/Paramount.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc_C/A3_Cine.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",DHE
+#EXTINF:-1 tvg-id="DHE.ar" tvg-logo="" group-title="Argentina",DHE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff800156f81f70c687eccaadedc2ca15:937ba1301e27008b34d02b9d8a31a0db
@@ -896,7 +896,7 @@ https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc_C/A3_Cine.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc_C/DHE.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Pasiones
+#EXTINF:-1 tvg-id="Pasiones.ar" tvg-logo="" group-title="Argentina",Pasiones
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d41cf825e878f0d8e276218af7f5b7e1:13d1b73ab578ab8623be9347bcf8972a
@@ -904,7 +904,7 @@ https://cdn.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc_C/DHE.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_C/Pasiones.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Telemundo
+#EXTINF:-1 tvg-id="TELEMUNDO.ar" tvg-logo="" group-title="Argentina",Telemundo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53d752e4649dadd808d913985f86ee77:d1fd24db1b61d634cabfc44538ce9b0e
@@ -912,7 +912,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_C/Pasiones.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_C/Telemundo_HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",TBS
+#EXTINF:-1 tvg-id="TBS.ar" tvg-logo="" group-title="Argentina",TBS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
@@ -928,7 +928,7 @@ https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_C/TBS.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Telenovelas/SA_Live_dash_enc_C/Telenovelas.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Adult Swim
+#EXTINF:-1 tvg-id="Adult Swim.ar" tvg-logo="" group-title="Argentina",Adult Swim
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9be1432e1e594c8d0648a44d3d9f0c46:8e6c785b14d973c504074b1920f11b15
@@ -936,7 +936,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Telenovelas/SA_Live_dash_enc_C/Telenovelas.
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc_C/Adult_Swim.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Lifetime
+#EXTINF:-1 tvg-id="LIFETIME.ar" tvg-logo="" group-title="Argentina",Lifetime
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eae51b1d67ff47adac7b6bd3a4b1120a:b4d6bb47193f33ffc12379cdc447455d
@@ -944,7 +944,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc_C/Adult_Swim.mp
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_C/Lifetime.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Gourmet
+#EXTINF:-1 tvg-id="EL GOURMET.ar" tvg-logo="" group-title="Argentina",Gourmet
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93d853ac4c8e24cf0295f6f97ee53bd3:fa5817fab4fb054ccea1abb9f3d767ed
@@ -952,7 +952,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_C/Lifetime.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_C/Gourmet.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Food Network
+#EXTINF:-1 tvg-id="FOOD NETWORK.ar" tvg-logo="" group-title="Argentina",Food Network
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ca0fbad21a0e908c0280dcc27e6ee0e:62670eedbafdf9360b4ecaed738e26cd
@@ -960,7 +960,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_C/Gourmet.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_C/Food_Network.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",E!
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT.ar" tvg-logo="" group-title="Argentina",E!
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5883553207f13e3dc8cecd1113d5ba68:45434d40636dfa0e5312b93218e02185
@@ -968,7 +968,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_C/Food_Networ
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc_C/E_Entertainment_Television.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Discovery Home & Health
+#EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH HD.ar" tvg-logo="" group-title="Argentina",Discovery Home & Health
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b0a76dd7a0df1e1b4320aeb1254d1a9:d011267775c38d6d2ab09b428c03d63f
@@ -976,7 +976,7 @@ https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_C/DiscoveryHomeHealthHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",TLC
+#EXTINF:-1 tvg-id="TLC.ar" tvg-logo="" group-title="Argentina",TLC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58761c7b2819491eb3a0d765842c341a:9dabc48f88bd7f266734e57501bd6f47
@@ -984,7 +984,7 @@ https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_C/Di
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_C/TLC.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Home and Garden
+#EXTINF:-1 tvg-id="HOME and HEALTH.ar" tvg-logo="" group-title="Argentina",Home and Garden
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43bc6a87ee4f21aa320ba00b980a6fd8:bd55130539a30faa1d90b3142eebe0b2
@@ -992,7 +992,7 @@ https://cdn.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_C/TLC.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc_C/Home_and_Garden.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Hola TV
+#EXTINF:-1 tvg-id="HOLA TV.ar" tvg-logo="" group-title="Argentina",Hola TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d759477f0ad1bdef2c6de09e7c275fd:82cc6eea185eecc934df95adfbbf9dbc
@@ -1000,7 +1000,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc_C/Home_and
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc_C/Hola_TV.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Discovery World HD
+#EXTINF:-1 tvg-id="DISCOVERY WORLD.ar" tvg-logo="" group-title="Argentina",Discovery World
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34ee94c2263345f7a3a590661264e490:56757d656a697ab7a2e5e083b5d21bb5
@@ -1008,7 +1008,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc_C/Hola_TV.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_C/Discovery_World_HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Canal Rural
+#EXTINF:-1 tvg-id="Canal Rural.ar" tvg-logo="" group-title="Argentina",Canal Rural
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b02c568163c14cfda4ddb958a0aab742:ef64a70ac85a663a3308be6476610aad
@@ -1024,7 +1024,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc_C/Canal_Rural.
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c4eds/Latam_Rural/SA_Live_dash_enc_C/Latam_Rural.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Sun Channel
+#EXTINF:-1 tvg-id="Sun Channel HD.uy" tvg-logo="" group-title="Argentina",Sun Channel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=158177692aa3463eae5f4e1f72403e9c:1c6c026fba9cf7ecb576c7bedce0ead4
@@ -1032,7 +1032,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Latam_Rural/SA_Live_dash_enc_C/Latam_Rural.
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_C/Sun_Channel.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Telemax
+#EXTINF:-1 tvg-id="TELEMAX.ar" tvg-logo="" group-title="Argentina",Telemax
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
@@ -1040,7 +1040,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_C/Sun_Channel.
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc_C/Telemax.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Senal Maria
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Señal Maria
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d456fba3fccb4c06a0f4776fe412400b:ca5530ffe42a38759d3887c82d6a909a
@@ -1056,7 +1056,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc_C/Senal_Maria.
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc_C/Canal_21.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",EWTN
+#EXTINF:-1 tvg-id="EWTN.ar" tvg-logo="" group-title="Argentina",EWTN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07df3c48652a431ab779d133f085b799:ee2fbeec1ecdffa5617383f684dfda0e
@@ -1080,7 +1080,7 @@ https://cdn.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_Live_dash_enc_C/CANAL_LUZ.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_C/Argentinisima.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",NatGeo
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC.ar" tvg-logo="" group-title="Argentina",NatGeo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4be0c61ceddc62294cc9e23b627af53d:852c1935d11c3c53d0a1ceff3bb3bf16
@@ -1088,7 +1088,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_C/Argentinis
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_C/NatGeoHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Discovery
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.ar" tvg-logo="" group-title="Argentina",Discovery
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c283c84a7af0d7c8b9b612a8fb22a001:f45510c721eebd6eaa86a2e16ccbd77d
@@ -1096,7 +1096,7 @@ https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_C/NatGeoHD.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_C/DiscoveryHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Animal Planet
+#EXTINF:-1 tvg-id="ANIMAL PLANET.ar" tvg-logo="" group-title="Argentina",Animal Planet
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4146a8ecbb0540dc807c6389ee87e0bc:0c3cdc1b3e4617c57361265e9fa4c5bd
@@ -1104,7 +1104,7 @@ https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_C/DiscoveryHD.
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_C/AnimalPlanet.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Theater
+#EXTINF:-1 tvg-id="DISCOVERY THEATER.ar" tvg-logo="" group-title="Argentina",Discovery Theater
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5279c05ea51c4dae8e7fa6be88448089:b28dfafba4b848dfd5d7c177ebf19108
@@ -1112,7 +1112,7 @@ https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_C/AnimalPlane
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_C/Theater_HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",History
+#EXTINF:-1 tvg-id="HISTORY CHANNEL.ar" tvg-logo="" group-title="Argentina",History
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e82318e518ba70cea3d7b37bef99e692:a05fcb634c071a514e3039e1c274b4db
@@ -1120,7 +1120,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_C/Theater_HD.mp
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_C/HistoryHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Canal A
+#EXTINF:-1 tvg-id="CANAL A.ar" tvg-logo="" group-title="Argentina",Canal A
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=324ec73787744554ae1aef231a4f8f97:677a040674d1d0eccef327269b222bae
@@ -1128,7 +1128,7 @@ https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_C/HistoryHD.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc_C/Canal_a.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Film Arts
+#EXTINF:-1 tvg-id="FILM and ARTS.ar" tvg-logo="" group-title="Argentina",Film & Arts
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91c540d350f34f5386f3f1c77f74001f:54ee72810551da0cba0c45a8df651962
@@ -1136,7 +1136,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc_C/Canal_a.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_C/Film_Arts.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",History 2
+#EXTINF:-1 tvg-id="HISTORY 2.ar" tvg-logo="" group-title="Argentina",History 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecbe97ec34784304b390a12ba3854ccf:5a0ee36ed9b8920cb19546fd92f2d415
@@ -1144,7 +1144,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_C/Film_Arts.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_C/History_2.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Discovery Science
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE.ar" tvg-logo="" group-title="Argentina",Discovery Science
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=46ba409fb04e40fb86b466d97e3a9588:f129fb9b5d213e20e2abe529b8cf2597
@@ -1152,7 +1152,7 @@ https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_C/History_2.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_C/Discovery_Science.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",MTV
+#EXTINF:-1 tvg-id="MTV.ar" tvg-logo="" group-title="Argentina",MTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c9eb3ead38a122ac460ad96a8ebfd2e:66bfbfa4449eb8bc1bcf7577d5bffaad
@@ -1160,7 +1160,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_C/Discov
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_C/MTV_HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Argentina",Quiero
+#EXTINF:-1 tvg-id="QUIERO.ar" tvg-logo="" group-title="Argentina",Quiero
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
@@ -2168,3 +2168,267 @@ https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_U
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.uy/
 https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd
 
+#EXTINF:-1 group-title="Argentina(Backup)",104.7 FM
+http://190.7.19.197:232/play/a096/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",26TV
+http://190.7.19.197:232/play/a042/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",A&E HD
+http://190.7.19.197:232/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",A24
+http://190.7.19.197:232/play/a03z/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",AIRE SANTA FE
+http://190.7.19.197:232/play/a08r/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",AM Sports
+http://190.7.19.197:232/play/a044/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",AMC
+http://190.7.19.197:232/play/a046/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",ANIMAL PLÁNET
+http://190.7.19.197:232/play/a081/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",ARGENTINISIMA
+http://190.7.19.197:232/play/a01z/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",AUNAR
+http://190.7.19.197:232/play/a08g/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",AXN HD
+http://190.7.19.197:232/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Adult swim HD
+http://190.7.19.197:232/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",America TV HD
+http://190.7.19.197:232/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",BANDEIRANTES
+http://190.7.19.197:232/play/a021/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Baby TV
+http://190.7.19.197:232/play/a04i/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",C5N
+http://190.7.19.197:232/play/a040/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",CANAL 11 PARANA
+http://190.7.19.197:232/play/a006/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",CANAL 6 CRESPO
+http://190.7.19.197:232/play/a001/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",CANAL 9 PARANA
+http://190.7.19.197:232/play/a0lo/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",CANAL E
+http://190.7.19.197:232/play/a08t/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",CHV
+http://190.7.19.197:232/play/a082/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",CM
+http://190.7.19.197:232/play/a094/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",CN23
+http://190.7.19.197:232/play/a084/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",CNN en Español
+http://190.7.19.197:232/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Canal a
+http://190.7.19.197:232/play/a015/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Canal de la Ciudad
+http://190.7.19.197:232/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Cartoon Network HD
+http://190.7.19.197:232/play/a05s/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Cine.AR
+http://190.7.19.197:232/play/a04b/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Cinecanal HD
+http://190.7.19.197:232/play/a05y/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Cinemax
+http://190.7.19.197:232/play/a009/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Ciudad Magazine
+http://190.7.19.197:232/play/a04l/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Comedy Central HD
+http://190.7.19.197:232/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Crðnica
+http://190.7.19.197:232/play/a041/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",DeporTV
+http://190.7.19.197:232/play/a05d/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Discovery Channel HD
+http://190.7.19.197:232/play/a065/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Discovery H&H HD
+http://190.7.19.197:232/play/a064/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Discovery Kids
+http://190.7.19.197:232/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Discovery Science
+http://190.7.19.197:232/play/a04o/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Discovery Theater HD
+http://190.7.19.197:232/play/a053/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Discovery Turbo
+http://190.7.19.197:232/play/a045/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Discovery World HD
+http://190.7.19.197:232/play/a055/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Disney Channel HD
+http://190.7.19.197:232/play/a04v/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Disney Junior
+http://190.7.19.197:232/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",E! Entertainment
+http://190.7.19.197:232/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",EL DESTAPE TV
+http://190.7.19.197:232/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",EL FOLKLORICO TV
+http://190.7.19.197:232/play/a024/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",EL GARAGE
+http://190.7.19.197:232/play/a034/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",ENLACE
+http://190.7.19.197:232/play/a020/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",ESPN 2 HD
+http://190.7.19.197:232/play/a03m/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",ESPN 3 HD
+http://190.7.19.197:232/play/a03o/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",ESPN 4 HD
+http://190.7.19.197:232/play/a05t/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",ESPN HD
+http://190.7.19.197:232/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",ESPN Premium HD
+http://190.7.19.197:232/play/a038/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",EWTN
+http://190.7.19.197:232/play/a01t/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",El Canal  de las Estrellas
+http://190.7.19.197:232/play/a05o/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",El Gourmet
+http://190.7.19.197:232/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",El Nueve HD
+http://190.7.19.197:232/play/a03k/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",El Trece HD
+http://190.7.19.197:232/play/a05a/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Encuentro
+http://190.7.19.197:232/play/a013/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Europa Europa
+http://190.7.19.197:232/play/a01o/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Eventos HD
+http://190.7.19.197:232/play/a022/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",FX HD
+http://190.7.19.197:232/play/a04z/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Film & Arts HD
+http://190.7.19.197:232/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Fox Sports 2 HD
+http://190.7.19.197:232/play/a03p/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Fox Sports 3 HD
+http://190.7.19.197:232/play/a04x/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Fox Sports HD
+http://190.7.19.197:232/play/a05u/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Galicia TV
+http://190.7.19.197:232/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",HBO
+http://190.7.19.197:232/play/a05e/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",HBO 2
+http://190.7.19.197:232/play/a05g/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",HBO Family
+http://190.7.19.197:232/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",HBO POP
+http://190.7.19.197:232/play/a016/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",HBO Plus
+http://190.7.19.197:232/play/a05f/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",HBO Signature
+http://190.7.19.197:232/play/a04g/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",HBO Xtreme
+http://190.7.19.197:232/play/a017/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",HGTV
+http://190.7.19.197:232/play/a04n/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",HTV
+http://190.7.19.197:232/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",History 2
+http://190.7.19.197:232/play/a019/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",History Channel
+http://190.7.19.197:232/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",ID HD
+http://190.7.19.197:232/play/a083/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",IN
+http://190.7.19.197:232/play/a012/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",IP
+http://190.7.19.197:232/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Kidoo HD
+http://190.7.19.197:232/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",La Nacion TV
+http://190.7.19.197:232/play/a043/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Lifetime
+http://190.7.19.197:232/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",MTV
+http://190.7.19.197:232/play/a04q/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Metro
+http://190.7.19.197:232/play/a018/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",NET TV
+http://190.7.19.197:232/play/a095/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",NUEVO TIEMPO
+http://190.7.19.197:232/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Nat Geo HD
+http://190.7.19.197:232/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Nick Jr
+http://190.7.19.197:232/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Nickelodeon
+http://190.7.19.197:232/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",O GLOBO
+http://190.7.19.197:232/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",PAKA PAKA
+http://190.7.19.197:232/play/a08e/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",PASIONES
+http://190.7.19.197:232/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Pakapaka
+http://190.7.19.197:232/play/a03y/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Paramount HD
+http://190.7.19.197:232/play/a052/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Playboy
+http://190.7.19.197:232/play/a056/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Quiero Musica
+http://190.7.19.197:232/play/a04r/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",RAI Italia
+http://190.7.19.197:232/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",REMANSO TV
+http://190.7.19.197:232/play/a003/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",REMANSO2
+http://190.7.19.197:232/play/a036/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",RT en Español
+http://190.7.19.197:232/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Record
+http://190.7.19.197:232/play/a08x/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Rural
+http://190.7.19.197:232/play/a04j/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Sextreme
+http://190.7.19.197:232/play/a058/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Sony HD
+http://190.7.19.197:232/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Sony Movies HD
+http://190.7.19.197:232/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Space HD
+http://190.7.19.197:232/play/a050/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Star Channel HD
+http://190.7.19.197:232/play/a05w/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Studio Universal
+http://190.7.19.197:232/play/a049/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",T5
+http://190.7.19.197:232/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",TCM
+http://190.7.19.197:232/play/a014/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",TEC TV
+http://190.7.19.197:232/play/a08c/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",TLNovelas
+http://190.7.19.197:232/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",TN HD
+http://190.7.19.197:232/play/a03l/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",TNT HD
+http://190.7.19.197:232/play/a060/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",TNT Novelas HD
+http://190.7.19.197:232/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",TNT Series HD
+http://190.7.19.197:232/play/a088/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",TNT Sports HD
+http://190.7.19.197:232/play/a037/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",TOONCAST
+http://190.7.19.197:232/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",TV Publica HD
+http://190.7.19.197:232/play/a03c/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",TVE
+http://190.7.19.197:232/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",TeleSUR
+http://190.7.19.197:232/play/a08p/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Telefe HD
+http://190.7.19.197:232/play/a059/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",The History Channel HD
+http://190.7.19.197:232/play/a03t/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",TyC Sports HD
+http://190.7.19.197:232/play/a04w/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",UCL
+http://190.7.19.197:232/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",USA Network
+http://190.7.19.197:232/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Universal HD
+http://190.7.19.197:232/play/a03u/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Venus
+http://190.7.19.197:232/play/a057/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Volver
+http://190.7.19.197:232/play/a048/index.m3u8
+#EXTINF:-1 group-title="Argentina(Backup)",Warner Channel HD
+http://190.7.19.197:232/play/a01h/index.m3u8
