@@ -7,7 +7,7 @@
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc_C/Canal_de_la_ciudad.mpd
 
-#EXTINF:-1 tvg-id="METRO.ar" tvg-logo="" group-title="Flow",Metro
+#EXTINF:-1 tvg-id="METRO.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/metro-ar.png" group-title="Flow",Metro
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
@@ -15,7 +15,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc_C/Canal
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc_C/Metro.mpd
 
-#EXTINF:-1 tvg-id="AMERICA TV.ar" tvg-logo="" group-title="Flow",America TV
+#EXTINF:-1 tvg-id="AMERICA TV.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/america-ar.png" group-title="Flow",America TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
@@ -23,7 +23,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc_C/Metro.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
 
-#EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="" group-title="Flow",Telefe
+#EXTINF:-1 tvg-id="TELEFE.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/telefe-ar.png" group-title="Flow",Telefe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
@@ -31,7 +31,7 @@ https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
 
-#EXTINF:-1 tvg-id="TV PUBLICA.ar" tvg-logo="" group-title="Flow",TV Publica
+#EXTINF:-1 tvg-id="TV PUBLICA.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/television-publica-ar.png" group-title="Flow",TV Publica
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
@@ -39,7 +39,7 @@ https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd
 
-#EXTINF:-1 tvg-id="EL TRECE.ar" tvg-logo="" group-title="Flow",El Trece
+#EXTINF:-1 tvg-id="EL TRECE.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/eltrece-ar.png" group-title="Flow",El Trece
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
@@ -47,7 +47,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
 
-#EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-logo="" group-title="Flow",Canal 9
+#EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/elnueve-ar.png" group-title="Flow",Canal 9
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
@@ -55,7 +55,7 @@ https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-logo="" group-title="Flow",TN
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tn-todo-noticias-ar.png" group-title="Flow",TN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
@@ -71,7 +71,7 @@ https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticia
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/Todo_Noticias_4K/SA_Live_dash_widevine/Todo_Noticias_4K.mpd
 
-#EXTINF:-1 tvg-id="LA NACION+.ar" tvg-logo="" group-title="Flow",La Nacion
+#EXTINF:-1 tvg-id="LA NACION+.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/la-nacion-mas-ar.png" group-title="Flow",La Nacion
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
@@ -79,7 +79,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Todo_Noticias_4K/SA_Live_dash_widevine/Todo
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
 
-#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="" group-title="Flow",C5N
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/c5n-ar.png" group-title="Flow",C5N
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
@@ -87,7 +87,7 @@ https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd
 
-#EXTINF:-1 tvg-id="CRONICA TV.ar" tvg-logo="" group-title="Flow",Cronica TV
+#EXTINF:-1 tvg-id="CRONICA TV.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/cronica-hd-ar.png" group-title="Flow",Cronica TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
@@ -95,7 +95,7 @@ https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd
 
-#EXTINF:-1 tvg-id="Canal 26.ar" tvg-logo="" group-title="Flow",26 TV
+#EXTINF:-1 tvg-id="Canal 26.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/canal-26-ar.png" group-title="Flow",26 TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
@@ -103,7 +103,7 @@ https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd
 
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="" group-title="Flow",A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/a24-ar.png" group-title="Flow",A24
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
@@ -215,7 +215,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_Live_dash_enc_C/Canal_
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_C/DeporTVHD.mpd
 
-#EXTINF:-1 tvg-id="TYC SPORTS.ar" tvg-shift="-3" tvg-logo="" group-title="Flow",TyC Sports
+#EXTINF:-1 tvg-id="TYC SPORTS.ar" tvg-shift="-3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tyc-sports-ar.png" group-title="Flow",TyC Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
@@ -231,7 +231,7 @@ https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_C/TyC_Internacional.mpd
 
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-shift="-3" tvg-logo="" group-title="Flow",ESPN
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-shift="-3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png" group-title="Flow",ESPN
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
@@ -239,7 +239,7 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_C/TyC_In
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd
 
-#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="" group-title="Flow",ESPN (Uruguay)
+#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png" group-title="Flow",ESPN (Uruguay)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6362e1f36fcb7ee3c47debd9140336ad:9ba1d46c5b9c7a3130a5dabbf7155175
@@ -247,7 +247,7 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.uy/
 https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc_C/ESPN_UY.mpd
 
-#EXTINF:-1 tvg-id="Canal ESPN (Paraguay).py" tvg-logo="" group-title="Flow",ESPN (Paraguay)
+#EXTINF:-1 tvg-id="Canal ESPN (Paraguay).py" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-lam.png" group-title="Flow",ESPN (Paraguay)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aab4bd18144c7316c35c74ccce96ddc:3e6db98d9df4747108bd896cba0be57d
@@ -255,7 +255,7 @@ https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/SA_Live_dash_enc_C/ESPN_UY.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.py
 https://cdn.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc_C/ESPN2_PY.mpd
 
-#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="" group-title="Flow",ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png" group-title="Flow",ESPN 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
@@ -263,7 +263,7 @@ https://cdn.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc_C/ESPN2_PY.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_C/ESPN2_Arg.mpd
 
-#EXTINF:-1 tvg-id="ESPN 2.uy" tvg-logo="" group-title="Flow",ESPN 2 (Uruguay)
+#EXTINF:-1 tvg-id="ESPN 2.uy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png" group-title="Flow",ESPN 2 (Uruguay)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d820100144772fed9f38b83650fa7e1:ded8cc47b29b0eb0b0a87df22e721847
@@ -271,7 +271,7 @@ https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_C/ESPN2_Arg.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.uy/
 https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc_C/ESPN2_UY.mpd
 
-#EXTINF:-1 tvg-id="Canal ESPN 2 (Paraguay).py" tvg-logo="" group-title="Flow",ESPN 2 (Paraguay)
+#EXTINF:-1 tvg-id="Canal ESPN 2 (Paraguay).py" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-2-lam.png" group-title="Flow",ESPN 2 (Paraguay)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4cbc5f5cbac72d38371bb63309e4a9d2:dbc8de27da9726cd2e7659abb08e86ef
@@ -279,7 +279,7 @@ https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/SA_Live_dash_enc_C/ESPN2_UY.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.py
 https://cdn.cvattv.com.ar/live/c6eds/ESPN2_PY/SA_Live_dash_enc_C/ESPN2_PY.mpd
 
-#EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="" group-title="Flow",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png" group-title="Flow",ESPN 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
@@ -287,7 +287,7 @@ https://cdn.cvattv.com.ar/live/c6eds/ESPN2_PY/SA_Live_dash_enc_C/ESPN2_PY.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_C/ESPN3.mpd
 
-#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="" group-title="Flow",ESPN 3 (UY-PY)
+#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-3-lam.png" group-title="Flow",ESPN 3 (UY-PY)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e
@@ -295,7 +295,7 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_C/ESPN3.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.uy/
 https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc_C/ESPN3_Uy-Py.mpd
 
-#EXTINF:-1 tvg-id="ESPN 4.ar" tvg-logo="" group-title="Flow",ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-4-lam.png" group-title="Flow",ESPN 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
@@ -303,7 +303,7 @@ https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc_C/ESPN3_Uy-Py.
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_C/ESPNHD.mpd
 
-#EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-logo="" group-title="Flow",ESPN 5
+#EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-5-lam.png" group-title="Flow",ESPN 5
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
@@ -311,7 +311,7 @@ https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_C/ESPNHD.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc_C/ESPN4.mpd
 
-#EXTINF:-1 tvg-id="ESPN 6 HD.uy" tvg-logo="" group-title="Flow",ESPN 6
+#EXTINF:-1 tvg-id="ESPN 6 HD.uy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-6-lam.png" group-title="Flow",ESPN 6
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
@@ -319,7 +319,7 @@ https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc_C/ESPN4.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.uy/
 https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc_C/FoxSports3_UY.mpd
 
-#EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-logo="" group-title="Flow",ESPN 7
+#EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/espn-7-lam.png" group-title="Flow",ESPN 7
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
@@ -327,7 +327,7 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc_C/FoxSports3
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.uy/
 https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_C/FoxSports2_UY.mpd
 
-#EXTINF:-1 tvg-id="FOX SPORTS ARGENTINA.ar" tvg-logo="" group-title="Flow",Fox Sports
+#EXTINF:-1 tvg-id="FOX SPORTS ARGENTINA.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-ar.png" group-title="Flow",Fox Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
@@ -335,7 +335,7 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_C/FoxSports2
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd
 
-#EXTINF:-1 tvg-id="FOX SPORTS 2.ar" tvg-logo="" group-title="Flow",Fox Sports 2
+#EXTINF:-1 tvg-id="FOX SPORTS 2.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-2-ar.png" group-title="Flow",Fox Sports 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
@@ -343,7 +343,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_C/FoxSports.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2HD.mpd
 
-#EXTINF:-1 tvg-id="FOX SPORTS 3.ar" tvg-logo="" group-title="Flow",Fox Sports 3
+#EXTINF:-1 tvg-id="FOX SPORTS 3.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/fox-sports-3-ar.png" group-title="Flow",Fox Sports 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
@@ -351,7 +351,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_C/FoxSports2H
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3HD.mpd
 
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="" group-title="Flow",ESPN Premiun
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/espn-premium-ar.png" group-title="Flow",ESPN Premiun
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
@@ -359,7 +359,7 @@ https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_C/FoxSports3H
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd
 
-#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" tvg-logo="" group-title="Flow",TNT Sports Premium
+#EXTINF:-1 tvg-id="TNT SPORTS PREMIUM.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/tnt-sports-ar.png" group-title="Flow",TNT Sports Premium
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
