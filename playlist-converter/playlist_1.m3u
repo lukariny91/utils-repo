@@ -1,5 +1,4 @@
 #EXTM3U tvg-url="https://www.open-epg.com/generate/HESFeS9San.xml"
-
 #EXTINF:-1 tvg-id="Canal de la Ciudad.ar" tvg-logo="" group-title="Flow",Canal de la ciudad
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
