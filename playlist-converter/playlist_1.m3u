@@ -583,7 +583,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_C/HBO_Mundi.mpd
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.ar/
 https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_C/HBO_POP.mpd
 
-#EXTINF:-1 tvg-id="HBO XTREME.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/hbo-xtremo-lam.png" group-title="Flow",HBO Extreme
+#EXTINF:-1 tvg-id="HBO XTREME.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-latin-america/hbo-xtreme-lam.png" group-title="Flow",HBO Xtreme
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58
